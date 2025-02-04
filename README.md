@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/darkmode.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/darkmode.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
